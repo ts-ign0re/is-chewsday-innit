@@ -4,4 +4,4 @@ export const isChewsdayInnit = (date: Date): 'aye' | 'yeah maybe' => {
   } else {
     return 'yeah maybe';
   }
-}
+};
