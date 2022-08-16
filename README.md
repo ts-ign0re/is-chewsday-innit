@@ -41,7 +41,7 @@ Or buy me a coffee 🙌🏾
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tronin&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" />
 </a>
 
-[![codecov](https://app.codecov.io/gh/ts-ign0re/is-chewsday-innit/branch/master/graph/badge.svg?token=Q9fr548J0D)](https://app.codecov.io/gh/ts-ign0re/is-chewsday-innit)
+[![codecov](https://app.codecov.io/gh/ts-ign0re/is-chewsday-innit/branch/master/graph/badge.svg?token=XWV5NRP16K)](https://app.codecov.io/gh/ts-ign0re/is-chewsday-innit)
 
 ## 📝 License
 
