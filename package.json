@@ -1,6 +1,6 @@
 {
   "name": "is-chewsday-innit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Is chewsday, innit?",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
